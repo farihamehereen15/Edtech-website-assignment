@@ -12,6 +12,17 @@ body{
     background:rgba(29,29,29,0.7);
 }
 
-.paragraphsize{
+/* .paragraphsize{
     font-size: 12px;
+} */
+
+@media (max-width: 576px) {
+    .paragraphsize{
+        font-size: 12px;
+        margin-bottom: 8px;
+    }
+    .hsize{
+        font-size: 20px;
+    }
+    
 }
