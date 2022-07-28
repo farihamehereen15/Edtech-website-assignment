@@ -12,9 +12,7 @@ body{
     background:rgba(29,29,29,0.7);
 }
 
-/* .paragraphsize{
-    font-size: 12px;
-} */
+
 
 @media (max-width: 576px) {
     .paragraphsize{
@@ -28,5 +26,9 @@ body{
      .imgsize{
        min-height: 250px;
     } 
+
+    .hbutton h2 button{
+        font-size: 20px;
+    }
     
 }
