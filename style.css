@@ -24,5 +24,9 @@ body{
     .hsize{
         font-size: 20px;
     }
+
+     .imgsize{
+       min-height: 250px;
+    } 
     
 }
